@@ -19,7 +19,7 @@ public class Day5 {
     this.input = input;
   }
   // private static final String INPUT = """
-  // [D]
+  //     [D]
   // [N] [C]
   // [Z] [M] [P]
   // 1 2 3
